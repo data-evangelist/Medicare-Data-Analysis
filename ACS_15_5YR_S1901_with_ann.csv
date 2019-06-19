@@ -1,0 +1,11 @@
+GEO.id,GEO.id2,GEO.display-label,HC01_EST_VC13,HC01_MOE_VC13,HC02_EST_VC13,HC02_MOE_VC13,HC03_EST_VC13,HC03_MOE_VC13,HC04_EST_VC13,HC04_MOE_VC13,HC01_EST_VC15,HC01_MOE_VC15,HC02_EST_VC15,HC02_MOE_VC15,HC03_EST_VC15,HC03_MOE_VC15,HC04_EST_VC15,HC04_MOE_VC15
+Id,Id2,Geography,Households; Estimate; Median income (dollars),Households; Margin of Error; Median income (dollars),Families; Estimate; Median income (dollars),Families; Margin of Error; Median income (dollars),Married-couple families; Estimate; Median income (dollars),Married-couple families; Margin of Error; Median income (dollars),Nonfamily households; Estimate; Median income (dollars),Nonfamily households; Margin of Error; Median income (dollars),Households; Estimate; Mean income (dollars),Households; Margin of Error; Mean income (dollars),Families; Estimate; Mean income (dollars),Families; Margin of Error; Mean income (dollars),Married-couple families; Estimate; Mean income (dollars),Married-couple families; Margin of Error; Mean income (dollars),Nonfamily households; Estimate; Mean income (dollars),Nonfamily households; Margin of Error; Mean income (dollars)
+8600000US21201,21201,ZCTA5 21201,30853,3085,39267,9888,(X),(X),27945,5155,49012,5003,65862,11329,N,N,44197,5405
+8600000US21202,21202,ZCTA5 21202,31638,3188,44141,7423,87143,24692,28639,3893,54158,4271,61471,6990,N,N,49259,5330
+8600000US21204,21204,ZCTA5 21204,77535,10150,111818,9078,(X),(X),51189,7769,112693,7248,160962,12884,N,N,64360,5951
+8600000US21215,21215,ZCTA5 21215,34885,2564,46954,4340,67005,6236,23255,2059,51538,3098,61228,3340,N,N,34830,4387
+8600000US21218,21218,ZCTA5 21218,37959,2324,49870,3538,85500,6465,27368,2884,60078,3473,81864,7278,N,N,41088,2735
+8600000US21224,21224,ZCTA5 21224,56997,3073,55572,7155,81709,9144,53083,3347,76328,2958,78924,4924,99073,6677,70162,3863
+8600000US21229,21229,ZCTA5 21229,44485,2790,48917,2554,71835,6557,34174,2494,54473,1595,61110,2596,N,N,40959,2254
+8600000US21237,21237,ZCTA5 21237,59405,3703,71020,6544,96098,9925,42484,3870,74038,3204,83506,4474,N,N,53645,7080
+8600000US21239,21239,ZCTA5 21239,50809,2851,59589,3911,(X),(X),30256,4521,63393,5699,77043,8429,N,N,38693,3230
